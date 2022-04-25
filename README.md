@@ -22,4 +22,7 @@ EXP 10 : Split the iris dataset into train and test data (80%-20%) and train or 
 
 EXP 11 : Evaluate the performance of Machine Learning algorithms using Confusion Matrix, Accuracy, Sensitivity, Specificity, Precision and Recall
 
-EXP 12 :
+EXP 12 : Emply linear regression to check the linearity between the
+
+    12(a) : Stock Price and interest rate
+    12(b) : Stock Price and unemployement rate
